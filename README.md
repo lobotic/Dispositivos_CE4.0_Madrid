@@ -22,3 +22,10 @@ Cuando algo esté suficientemente cerca del Maestro Yoda, alzará su sable láse
 [Presentación](https://github.com/lobotic/Dispositivos_CE4.0_Madrid/blob/main/Microbit_Creativa/UneteAlaResistencia/%C2%A1%C3%BAnete%20a%20la%20resistencia!.pdf)
 
 [Modelo 3D](https://github.com/lobotic/Dispositivos_CE4.0_Madrid/blob/main/Microbit_Creativa/UneteAlaResistencia/yoda%20ultrasonidos%2Bservo.stl)
+
+### Concurso de Músculos y Huesos
+Pequeño juego en el que la microbit muestra nombres de músculos y de huesos. Si es un hueso, se debe pulsar A, si es un músculo, B. Dos LEDs Externos indican si se ha acertado o no.
+
+[Presentación](https://github.com/lobotic/Dispositivos_CE4.0_Madrid/blob/main/Microbit_Creativa/MusculosyHuesos/Concurso%20de%20musculos%20y%20huesos_presentacion.pdf)
+
+[Ficha](https://github.com/lobotic/Dispositivos_CE4.0_Madrid/blob/main/Microbit_Creativa/MusculosyHuesos/concurso%20HUESOS%20Y%20M%C3%9ASCULOS%20ficha.pdf)
