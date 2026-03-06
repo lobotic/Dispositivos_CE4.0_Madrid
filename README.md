@@ -17,6 +17,7 @@ Usaremos el sensor de luz de la placa Micro:bit para detectar cuándo se debe en
 
 #### Ruleta con Nezha
 Programaremos una ruleta.Al pulsar el botón A de la micro:bit, un motor de corriente continua hará girar la flecha durante un tiempo aleatorio.
+
 [Presentación](https://github.com/lobotic/Dispositivos_CE4.0_Madrid/blob/main/Microbit_Nezha/Ruleta_Nezha/Ruleta%20Nezha.pdf)
 
 [Plantilla ruleta](https://github.com/lobotic/Dispositivos_CE4.0_Madrid/blob/main/Microbit_Nezha/Ruleta_Nezha/Ruleta%20servo.pdf)
