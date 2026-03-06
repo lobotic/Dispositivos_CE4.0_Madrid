@@ -15,6 +15,13 @@ Usaremos el sensor de luz de la placa Micro:bit para detectar cuándo se debe en
 
 [Marcapáginas](https://github.com/lobotic/Dispositivos_CE4.0_Madrid/blob/main/Microbit_Nezha/InterruptorCrepuscular/casaenelarbolmarcapagina.pdf)
 
+#### Ruleta con Nezha
+Programaremos una ruleta.Al pulsar el botón A de la micro:bit, un motor de corriente continua hará girar la flecha durante un tiempo aleatorio.
+[Presentación](https://github.com/lobotic/Dispositivos_CE4.0_Madrid/blob/main/Microbit_Nezha/Ruleta_Nezha/Ruleta%20Nezha.pdf)
+
+[Plantilla ruleta](https://github.com/lobotic/Dispositivos_CE4.0_Madrid/blob/main/Microbit_Nezha/Ruleta_Nezha/Ruleta%20servo.pdf)
+
+
 ## Creativa
 #### ¡Únete a la Resistencia!
 Cuando algo esté suficientemente cerca del Maestro Yoda, alzará su sable láser para defenderse. Un sensor de ultrasonidos medirá la distancia a la que se encuentra el peligro y un servomotor elevará el sable láser.
