@@ -37,3 +37,11 @@ Pequeño juego en el que la microbit muestra nombres de músculos y de huesos. S
 [Presentación](https://github.com/lobotic/Dispositivos_CE4.0_Madrid/blob/main/Microbit_Creativa/MusculosyHuesos/Concurso%20de%20musculos%20y%20huesos_presentacion.pdf)
 
 [Ficha](https://github.com/lobotic/Dispositivos_CE4.0_Madrid/blob/main/Microbit_Creativa/MusculosyHuesos/concurso%20HUESOS%20Y%20M%C3%9ASCULOS%20ficha.pdf)
+
+## Microbit secundaria
+#### Cochecito RC
+Coche teledirigido con radio entre 2 microbits
+
+[Presentación](https://github.com/lobotic/Dispositivos_CE4.0_Madrid/blob/main/Microbit_Secundaria/CochecitoRC/Coche%20teledirigido.pdf)
+
+[Presentación baja resolución](https://github.com/lobotic/Dispositivos_CE4.0_Madrid/blob/main/Microbit_Secundaria/CochecitoRC/Coche%20teledirigido-LR.pdf)
