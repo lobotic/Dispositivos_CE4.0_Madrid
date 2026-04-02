@@ -45,3 +45,5 @@ Coche teledirigido con radio entre 2 microbits
 [Presentación](https://github.com/lobotic/Dispositivos_CE4.0_Madrid/blob/main/Microbit_Secundaria/CochecitoRC/Coche%20teledirigido.pdf)
 
 [Presentación baja resolución](https://github.com/lobotic/Dispositivos_CE4.0_Madrid/blob/main/Microbit_Secundaria/CochecitoRC/Coche%20teledirigido-LR.pdf)
+
+[Chasis en 3D](https://github.com/lobotic/Dispositivos_CE4.0_Madrid/blob/main/Microbit_Secundaria/CochecitoRC/CochecitoKitMicrobit.stl)
