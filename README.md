@@ -24,7 +24,7 @@ Programaremos una ruleta.Al pulsar el botón A de la micro:bit, un motor de corr
 
 
 ## Creativa
-#### ¡Únete a la Resistencia!
+#### ¡Únete a la Resistencia! (Kit creativa)
 Cuando algo esté suficientemente cerca del Maestro Yoda, alzará su sable láser para defenderse. Un sensor de ultrasonidos medirá la distancia a la que se encuentra el peligro y un servomotor elevará el sable láser.
 
 [Presentación](https://github.com/lobotic/Dispositivos_CE4.0_Madrid/blob/main/Microbit_Creativa/UneteAlaResistencia/%C2%A1%C3%BAnete%20a%20la%20resistencia!.pdf)
@@ -47,3 +47,12 @@ Coche teledirigido con radio entre 2 microbits
 [Presentación baja resolución](https://github.com/lobotic/Dispositivos_CE4.0_Madrid/blob/main/Microbit_Secundaria/CochecitoRC/Coche%20teledirigido-LR.pdf)
 
 [Chasis en 3D](https://github.com/lobotic/Dispositivos_CE4.0_Madrid/blob/main/Microbit_Secundaria/CochecitoRC/CochecitoKitMicrobit.stl)
+
+#### ¡Únete a la Resistencia! (Secundaria)
+Cuando algo esté suficientemente cerca del Maestro Yoda, alzará su sable láser para defenderse. Un sensor de ultrasonidos medirá la distancia a la que se encuentra el peligro y un servomotor elevará el sable láser.
+
+[Presentación](https://github.com/lobotic/Dispositivos_CE4.0_Madrid/blob/main/Microbit_Creativa/UneteAlaResistencia/%C2%A1%C3%BAnete%20a%20la%20resistencia!.pdf)
+
+[Modelo 3D](https://github.com/lobotic/Dispositivos_CE4.0_Madrid/blob/main/Microbit_Secundaria/UneteAlaResistenciaSecundaria/%C2%A1%C3%BAnete%20a%20la%20resistencia!%20Kit%20Secundaria.pdf)
+
+[Programación](https://github.com/lobotic/Dispositivos_CE4.0_Madrid/blob/main/Microbit_Secundaria/UneteAlaResistenciaSecundaria/%C2%A1%C3%BAnete%20a%20la%20resistencia!%20Kit%20Secundaria.pdf)
