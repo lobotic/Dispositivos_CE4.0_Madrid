@@ -29,7 +29,7 @@ Cuando algo esté suficientemente cerca del Maestro Yoda, alzará su sable láse
 
 [Presentación](https://github.com/lobotic/Dispositivos_CE4.0_Madrid/blob/main/Microbit_Creativa/UneteAlaResistencia/%C2%A1%C3%BAnete%20a%20la%20resistencia!.pdf)
 
-[Modelo 3D](https://github.com/lobotic/Dispositivos_CE4.0_Madrid/blob/main/Microbit_Creativa/UneteAlaResistencia/yoda%20ultrasonidos%2Bservo.stl)
+[Modelo 3D]([https://github.com/lobotic/Dispositivos_CE4.0_Madrid/blob/main/Microbit_Creativa/UneteAlaResistencia/yoda%20ultrasonidos%2Bservo.stl](https://github.com/lobotic/Dispositivos_CE4.0_Madrid/blob/main/Microbit_Secundaria/UneteAlaResistenciaSecundaria/%C2%A1%C3%BAnete%20a%20la%20resistencia!%20Kit%20Secundaria.pdf))
 
 #### Concurso de Músculos y Huesos
 Pequeño juego en el que la microbit muestra nombres de músculos y de huesos. Si es un hueso, se debe pulsar A, si es un músculo, B. Dos LEDs Externos indican si se ha acertado o no.
@@ -51,7 +51,7 @@ Coche teledirigido con radio entre 2 microbits
 #### ¡Únete a la Resistencia! (Secundaria)
 Cuando algo esté suficientemente cerca del Maestro Yoda, alzará su sable láser para defenderse. Un sensor de ultrasonidos medirá la distancia a la que se encuentra el peligro y un servomotor elevará el sable láser.
 
-[Presentación](https://github.com/lobotic/Dispositivos_CE4.0_Madrid/blob/main/Microbit_Creativa/UneteAlaResistencia/%C2%A1%C3%BAnete%20a%20la%20resistencia!.pdf)
+[Presentación](https://github.com/lobotic/Dispositivos_CE4.0_Madrid/blob/main/Microbit_Secundaria/UneteAlaResistenciaSecundaria/%C2%A1%C3%BAnete%20a%20la%20resistencia!%20Kit%20Secundaria.pdf)
 
 [Modelo 3D](https://github.com/lobotic/Dispositivos_CE4.0_Madrid/blob/main/Microbit_Secundaria/UneteAlaResistenciaSecundaria/%C2%A1%C3%BAnete%20a%20la%20resistencia!%20Kit%20Secundaria.pdf)
 
