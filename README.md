@@ -6,6 +6,12 @@ Dos tipos de alfombrilla, grid y casillas.
 
 [Alfombrillas](https://github.com/lobotic/Dispositivos_CE4.0_Madrid/blob/main/True_True/Ecosistemas.pdf)
 
+## Microbit
+### Código Morse
+Utilizamos la comunicación de radio de las placas microbit para comunicarnos mediante código Morse
+[Presentación](https://github.com/lobotic/Dispositivos_CE4.0_Madrid/blob/main/Microbit/Codigo_Morse/Misi%C3%B3n_C%C3%B3digo_Morse.pdf)
+[Ficha alumnado](https://github.com/lobotic/Dispositivos_CE4.0_Madrid/blob/main/Microbit/Codigo_Morse/c%C3%B3digo%20morse.pdf)
+
 ## Nezha
 #### Interruptor crepuscular
 Programaremos una luz para que se encienda automáticamente cuando llegue la noche.
