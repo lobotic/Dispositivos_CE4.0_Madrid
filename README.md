@@ -9,7 +9,9 @@ Dos tipos de alfombrilla, grid y casillas.
 ## Microbit
 ### Código Morse
 Utilizamos la comunicación de radio de las placas microbit para comunicarnos mediante código Morse
+
 [Presentación](https://github.com/lobotic/Dispositivos_CE4.0_Madrid/blob/main/Microbit/Codigo_Morse/Misi%C3%B3n_C%C3%B3digo_Morse.pdf)
+
 [Ficha alumnado](https://github.com/lobotic/Dispositivos_CE4.0_Madrid/blob/main/Microbit/Codigo_Morse/c%C3%B3digo%20morse.pdf)
 
 ## Nezha
