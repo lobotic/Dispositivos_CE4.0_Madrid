@@ -15,6 +15,12 @@ Utilizamos la comunicación de radio de las placas microbit para comunicarnos me
 [Ficha alumnado](https://github.com/lobotic/Dispositivos_CE4.0_Madrid/blob/main/Microbit/Codigo_Morse/c%C3%B3digo%20morse.pdf)
 
 ## Nezha
+
+### Rotógrafo
+Montamos un dispositivo para crear arte en espiral
+
+[Presentación](https://github.com/lobotic/Dispositivos_CE4.0_Madrid/blob/main/Microbit_Nezha/rotografo_nezha/Rot%C3%B3grafo.pdf)
+
 #### Interruptor crepuscular
 Programaremos una luz para que se encienda automáticamente cuando llegue la noche.
 Usaremos el sensor de luz de la placa Micro:bit para detectar cuándo se debe encender un diodo LED.
